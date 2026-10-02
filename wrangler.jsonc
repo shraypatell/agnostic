@@ -1,0 +1,9 @@
+{
+  // Tells Cloudflare that the static site is the repo root (where index.html sits).
+  // "name" should match the project name in Cloudflare; change it if yours is not "agnostic".
+  "name": "agnostic",
+  "compatibility_date": "2026-09-01",
+  "assets": {
+    "directory": "./"
+  }
+}
